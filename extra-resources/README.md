@@ -240,3 +240,11 @@ https://institucional.telecom.com.ar/digitalers
 https://cybersecurity.bsy.fel.cvut.cz/ 
 
 # Talento tech IBM
+https://talentotech.bue.edu.ar/#/ 
+https://drive.google.com/file/d/1rDgPPDvv3voBZ7wgJhWkUUcNc0iRudj9/view 
+
+# Splunk
+https://www.linkedin.com/posts/gabslazo_siem-splunk-ciberseguridad-activity-7353053671267397632-Eh1J/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY9xQoBRLRQuWXpsqqObu7mLG-Vxjp4wus 
+
+# OSINT ANALYST
+https://ciberseguridad.compuweb.cl/C-OSIA/ 
