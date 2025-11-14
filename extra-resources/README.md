@@ -272,3 +272,11 @@ https://www.apisecuniversity.com/
 
 # Pwn college
 https://pwn.college/dojos 
+
+# YT 
+STÖK 
+https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg 
+Omar Palomino
+https://www.youtube.com/@OmarPalomino/playlists
+InsiderPhD
+https://www.youtube.com/c/InsiderPhD 
