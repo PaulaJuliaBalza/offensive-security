@@ -248,3 +248,27 @@ https://www.linkedin.com/posts/gabslazo_siem-splunk-ciberseguridad-activity-7353
 
 # OSINT ANALYST
 https://ciberseguridad.compuweb.cl/C-OSIA/ 
+
+# Mobile Hacking
+https://www.mobilehackinglab.com/ 
+https://app.hextree.io/map 
+
+
+# Red team
+https://cryptocat.me/resources 
+https://redteamleaders.coursestack.com/catalog  
+
+# Plataformas de estudio
+https://mas.owasp.org/MASTG/apps/ 
+
+# Pwned Labs (cloud)
+https://pwnedlabs.io/dashboard 
+
+# Crypto
+https://cryptohack.org/courses/ 
+
+# API University
+https://www.apisecuniversity.com/ 
+
+# Pwn college
+https://pwn.college/dojos 
