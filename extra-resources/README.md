@@ -280,3 +280,6 @@ Omar Palomino
 https://www.youtube.com/@OmarPalomino/playlists
 InsiderPhD
 https://www.youtube.com/c/InsiderPhD 
+
+# Curso de Pentest
+https://edutin.com/curso-de-pentest-4369 
