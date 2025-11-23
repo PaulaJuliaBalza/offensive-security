@@ -287,3 +287,7 @@ https://edutin.com/curso-de-pentest-4369
 # Mobile security
 https://medium.com/@justmobilesec/just-mobile-security-jms-mobile-docker-ba1e6b7f131d
 https://github.com/MobSF/Mobile-Security-Framework-MobSF 
+
+# Red team
+TripleDobleu
+https://www.youtube.com/@TripleDobleu 
