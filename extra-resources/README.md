@@ -291,3 +291,12 @@ https://github.com/MobSF/Mobile-Security-Framework-MobSF
 # Red team
 TripleDobleu
 https://www.youtube.com/@TripleDobleu 
+
+# Over The Wire
+https://overthewire.org/wargames/ 
+
+# CFTs practice
+https://github.com/Sharishth/ctf-practice 
+
+# Free alternatives
+https://www.reddit.com/r/cybersecurity/comments/1iyirqk/tryhackme_free_alternative/ 
