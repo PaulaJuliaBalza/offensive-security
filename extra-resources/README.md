@@ -300,3 +300,12 @@ https://github.com/Sharishth/ctf-practice
 
 # Free alternatives
 https://www.reddit.com/r/cybersecurity/comments/1iyirqk/tryhackme_free_alternative/ 
+
+# Ruta de certificación Burp Suite
+https://py-us3r.github.io/bscp-roadmap-bscproadmap/   
+
+# Pentest apis
+https://k4sst.gitbook.io/api-pentesting 
+
+# Web Application Penetration Testing Checklist
+https://alike-lantern-72d.notion.site/Web-Application-Penetration-Testing-Checklist-4792d95add7d4ffd85dd50a5f50659c6 
