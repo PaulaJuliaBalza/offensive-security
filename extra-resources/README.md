@@ -312,3 +312,356 @@ https://alike-lantern-72d.notion.site/Web-Application-Penetration-Testing-Checkl
 
 # Android Bug Bounty
 https://www.yeswehack.com/learn-bug-bounty/android-recon-bug-bounty-guide?utm_source=twitter&utm_medium=social&utm_campaign=android-recon-bug 
+
+# PWN College
+https://pwn.college/ 
+
+# Distro Analisis Forense aplicado a Respuesta a Incidentes (DFIR)
+https://tsurugi-linux.org/index.php 
+
+# Análisis de malware 
+https://www.linkedin.com/posts/inictel-uni-pagina-oficial_anaerlisisdemalware-ituacademy-activity-7406379840041279495-hP2C/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAADTnCesBZ3woyqNZpo2OZoYNKh3xgOTPno8&utm_campaign=copy_link 
+
+# Networking
+https://beej.us/guide/bgnet0/html/split/ 
+
+# Beginner hacking
+https://www.hackthissite.org/ 
+
+# Over the wire
+https://overthewire.org/wargames/bandit/ 
+
+# Reverge Eng and malw analysis
+https://pwn.college/
+https://pwn.college/program-security/reverse-engineering/
+https://anti-debug.checkpoint.com/
+https://p.ost2.fyi/
+https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html
+
+# Windows areas commonly abused
+https://lolbas-project.github.io/ 
+
+# CyberChef
+https://gchq.github.io/CyberChef/ 
+
+# Basic security
+https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh 
+
+# Cloudsploit
+https://od.cloudsploit.top/course/ 
+
+# Cyberarsenal
+https://cyberarsenal.org/ 
+
+# OSCP
+https://github.com/0xsyr0/OSCP?tab=readme-ov-file#password-attacks-1 
+
+# Pentesting
+https://cheatsheetseries.owasp.org/index.html 
+https://owasp.org/www-community/attacks/ 
+
+# Pentesting ROADMAP
+Basics
+-Get security+ and learn cybersec fundamentals
+-Learn python (no advanced CD, just scripting and automation and general python.)
+-Learn linux (at least some basics, you can google the rest as you go)
+
+Understand basic web/infrastructure pentesting, finish portswigger and spam CTFs on hackthebox - your main resource (use writeups when you're stuck)
+
+Get good at documenting and describing (writeups, reports, blog posts)
+Every time you see something new you should dig into it and learn more about it
+When you learn about attacks also learn the remediation/blue team steps to fix those
+
+Get good -> try to land your first entry job and learn more there (they will give you new project and make you learn new technologies)
+
+Note: This is not a beginner role. You can start with blue teaming (soc analyst) or something easier then work your way up and study in your free time.
+
+# CRYPTO
+https://www.cryptohack.org/ 
+
+# PROGRAMMING PROJECTS
+https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md
+https://github.com/practical-tutorials/project-based-learning
+https://github.com/sindresorhus/awesome
+
+# BUG BOUNTY HACKING BOOKS
+https://github.com/akr3ch/BugBountyBooks
+https://github.com/linuxqueenn12/popular-Hacking-books-/
+
+# Malware development
+For those interested in malware development:
+https://maldevacademy.com/
+https://malapi.io/
+https://github.com/BlackSnufkin/LitterBox?tab=readme-ov-file
+https://vx-underground.org/
+https://www.ransomlook.io/ 
+
+# IT Tools
+https://it-tools.tech/ 
+
+# Bug bounty course
+https://www.youtube.com/watch?v=TTw-EY7F1rM 
+
+# PCAP analysis
+https://www.malware-traffic-analysis.net/ 
+
+# Linux areas commonly abused
+https://gtfobins.github.io/ 
+
+### 1) Basic IT Skills
+- https://academy.tcm-sec.com/courses/enrolled/2537874
+- https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/
+- https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/
+
+### 2) Networking Skills
+- https://www.professormesser.com/network-plus/n10-009/n10-009-video/n10-009-training-course/
+- https://www.netacad.com/cisco-packet-tracer
+
+### 3) Linux Skills
+- https://academy.tcm-sec.com/courses/enrolled/2631779
+- https://linuxjourney.com/
+- https://overthewire.org/wargames/bandit/
+
+### 4) Coding/Scripting Skills
+- https://academy.tcm-sec.com/courses/enrolled/2635065
+- https://youtu.be/ix9cRaBkVe0?si=ze040uaybNqSboy7
+- https://youtu.be/87SH2Cn0s9A?feature=shared
+- https://youtu.be/HGTJBPNC-Gw?feature=shared
+- https://youtu.be/lfmg-EJ8gm4?feature=shared
+
+### 5) Security Skills
+- https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/
+
+---
+# Hacking Basics
+
+- https://youtu.be/3FNYvj2U0HM?si=NvYywqc-EI8ANR_8
+- https://youtu.be/sH4JCwjybGs?si=uMC1qjaD5VmHk4wt
+- https://tryhackme.com/dashboard
+- https://www.hackthebox.com/
+- https://www.vulnhub.com/
+
+### CTF
+https://picoctf.org/
+https://ctflearn.com/
+https://ctf101.org/
+https://www.root-me.org/?lang=en
+https://w3challs.com/
+https://www.hackthissite.org/
+https://github.com/devploit/awesome-ctf-resources?tab=readme-ov-file
+https://sites.google.com/view/beginnercapturetheflagctf/resources
+https://blog.elmo.sg/posts/one-stop-ctf-guide/
+https://zaratec.io/ctf-practice/
+https://ctf.hacker101.com/
+https://www.hackerone.com/
+
+---
+
+# Beyond the Basics
+
+### 1) OSINT
+- https://youtu.be/qwA6MmbeGNo?si=4BG70_6OW3ePoegV
+- https://youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy&si=lcKvAEZHuBh2uIux
+- https://www.youtube.com/playlist?list=PLwFbKk71Xo1y6OnyZRt65A2CVKC_Eoiqh
+- https://youtu.be/5g2mULb7SXo?si=SqRe-g7CopLksxYw
+- https://www.plonkit.net/beginners-guide-2#general-clues
+- https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
+
+### 1) Active Directory
+- https://youtu.be/VXxH4n684HE?si=HPxH3USmPpDvHKWp
+- https://adsecurity.org/
+- https://dirkjanm.io/
+- https://hausec.com/
+
+### 2) Web & Mobile App Hacking
+- https://youtu.be/24fHLWXGS-M?si=RIDX2V-qJXXcf1IR
+- https://youtu.be/1GJ_LwNw6sc?si=SmOuxi7r0-euxJ8J
+- https://youtu.be/wS2z5lt34Cc?si=DhS0f9HX92VTZbP3
+- https://youtu.be/ncBblM920jw?si=AJNLagP0dfueBhGE
+- https://portswigger.net/web-security
+- https://www.hacker101.com/
+- https://www.bugcrowd.com/hackers/bugcrowd-university/
+- https://pentesterlab.com/
+- https://owasp.org/www-project-top-ten/
+- https://owasp.org/www-project-web-security-testing-guide/
+- https://hackerone.com/hacktivity/overview?queryString=disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+- https://www.hackthissite.org/
+- https://www.root-me.org/?lang=en
+- https://craftware.xyz/ctf/underthewire/2018/05/10/UnderTheWire-Century.html
+
+### 3) Wireless Hacking
+- https://www.aircrack-ng.org/doku.php?id=cracking_wpa
+- https://adam-toscher.medium.com/top-5-ways-i-gained-access-to-your-corporate-wireless-network-lo0tbo0ty-karma-edition-f72e7995aef2
+
+### 4) Privelege Esculation
+- https://youtu.be/ZTnwg3qCdVM?si=YVbv7gXILM9BkdGU
+- https://youtu.be/uTcrbNBcoxQ?si=6tRWokPrhnQbiDUq
+- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
+
+### X) Content Creators
+
+**General Hacking:**
+The Cyber Mentor (self-promotion) – [https://youtube.com/c/thecybermentor](https://youtube.com/c/thecybermentor "The Cyber Mentor YouTube Channel")  
+John Hammond – [https://youtube.com/c/JohnHammond010](https://youtube.com/c/JohnHammond010 "John Hammond YouTube Channel")  
+HackerSploit – [https://youtube.com/c/HackerSploit](https://youtube.com/c/HackerSploit "HackerSploit YouTube Channel")  
+IppSec – [https://youtube.com/c/ippsec](https://youtube.com/c/ippsec "IPPSec YouTube Channel")  
+Conda – [https://youtube.com/c/c0nd4](https://youtube.com/c/c0nd4 "c0nd4 YouTube Channel")  
+Tyler Ramsbey – [https://www.youtube.com/@TylerRamsbey](https://www.youtube.com/@TylerRamsbey)
+
+**Web App/Bug Bounty:**
+NahamSec – [https://youtube.com/c/Nahamsec](https://youtube.com/c/Nahamsec "Nahamsec YouTube Channel")  
+InsiderPhD – [https://youtube.com/user/RapidBug](https://www.youtube.com/user/RapidBug "InsiderPHD YouTube Channel")  
+Farah Hawa – [https://youtube.com/c/FarahHawa](https://youtube.com/c/FarahHawa "Farah Hawa YouTube Channel")  
+Rana Khalil – [https://youtube.com/c/RanaKhalil101](https://youtube.com/c/RanaKhalil101 "Rana Khalil YouTube Channel")
+
+# Bug Bounty
+https://github.com/R-s0n/bug-bounty-village-defcon32-workshop 
+
+# Python projects
+https://nedbatchelder.com/text/kindling.html 
+
+# SOC interview questions
+https://github.com/LetsDefend/SOC-Interview-Questions 
+https://www.youtube.com/watch?v=QhvUokloJZo 
+
+# Resumen overleaf
+https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs 
+
+# Malware deveoplment
+https://www.youtube.com/@BitmasterXor 
+https://github.com/fr0gger/Awesome_Malware_Techniques 
+https://unprotect.it/
+https://github.com/rshipp/awesome-malware-analysis#readme
+
+# The DFIR Report
+https://thedfirreport.com/ 
+
+# CFT Platform
+https://dreamhack.io/ 
+
+# Curso de hacking
+https://guidedhacking.com/ 
+
+
+# Awesome hacking Resources
+https://github.com/Hack-with-Github/Awesome-Hacking 
+
+# Platforms to get started
+https://tryhackme.com/login
+https://www.hackthebox.com/ 
+https://pentesterlab.com/ 
+https://pwn.college/
+https://shellsharks.com/getting-into-information-security 
+https://overthewire.org/wargames/ 
+https://underthewire.tech/ 
+https://kc7cyber.com/ 
+https://pwnable.tw/ 
+
+# Methodologies & Threat modelling
+https://shellsharks.com/threat-modeling 
+https://www.isecom.org/research.html#content5-9d 
+https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk 
+https://owasp.org/www-project-web-security-testing-guide/stable/ 
+https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf 
+
+# Red team
+https://book.hacktricks.wiki/en/index.html
+https://www.ired.team/
+https://attack.mitre.org/
+https://wiki.hego.tech/
+https://wadcoms.github.io/
+https://arttoolkit.github.io/ 
+
+# Blue team
+https://d3fend.mitre.org/
+
+# Reverse Engineering
+https://github.com/wtsxDev/reverse-engineering
+https://github.com/mytechnotalent/Reverse-Engineering 
+https://xn--qckyd1c.xn--w8je.xn--tckwe/2021/10/02/Reverse-Engineering-Roadmap/
+https://x86re.com/  
+https://guyinatuxedo.github.io/index.html 
+https://malwareunicorn.org/#/ 
+https://crackmes.one/
+https://gamehacking.academy/
+
+# Malware
+https://www.crow.rip/nest/mal/dev/getting-started
+https://github.com/chvancooten/maldev-for-dummies
+https://www.youtube.com/playlist?list=PL_dk67mLCSFHa5jDNvEuXuoafMHmTjn32
+
+# OSSU
+https://github.com/ossu/computer-science 
+
+# CertSec+
+https://lognpacific.com/free-certification-practice-tests/free-security-sy0-701-practice-questions/ 
+
+# OSINT Dojo
+https://www.osintdojo.com/resources/ 
+
+# OSCP
+https://www.youtube.com/playlist?list=PLT08J44ErMmb9qaEeTYl5diQW6jWVHCR2 
+
+# soc course
+https://www.youtube.com/watch?v=56NDgBOSpUg 
+https://academy.tcm-sec.com/p/security-operations-soc-101?utm_source=youtube&utm_medium=social_description&utm_campaign=soc_101_2025 
+
+# Cyber summit
+https://www.sans.org/cyber-security-summit 
+
+# Cyber links
+https://github.com/notthehiddenwiki/NTHW 
+
+# CFT sites
+https://ctfsites.github.io/
+https://github.com/zardus/wargame-nexus 
+
+
+# Free cyber courses
+https://perkinsfund.org/courses 
+
+# Intro to python helsinki
+https://programming-25.mooc.fi/ 
+
+# The hacker recipes
+https://www.thehacker.recipes/ 
+https://www.scriptchildie.com/ 
+
+# OSCP CURSO
+https://www.youtube.com/watch?v=MLAgSwRFSL8 
+
+# CYBER COURSES
+https://inl.gov/national-security/ics-cybersecurity-training/ 
+
+# Cyber YT
+https://www.youtube.com/@theshyhat 
+
+# Microsoft course SOC
+https://microsoft.github.io/SOC/source/content/#/ 
+
+# HACKING BOOKS
+https://github.com/fmottamendes/Hacking-related-books/tree/master 
+
+# Hacking resources
+https://elhacker.info/
+https://github.com/vitalysim/Awesome-Hacking-Resources
+https://github.com/bitofsecurity/legal-hacking-websites
+
+# Pentesting
+https://github.com/m14r41/PentestingEverything 
+
+
+# Cyber curso
+https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html 
+
+# Info con
+https://infocon.org/ 
+
+# Intro hacking
+https://ike.mahaloz.re/1_introduction/background.html 
+
+# Homelab step by step
+https://learntohomelab.com/ 
+
+# Bug bounty
+https://github.com/notthehiddenwiki/NTHW/tree/nthw/Bug%20Bounty 
