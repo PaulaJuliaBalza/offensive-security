@@ -668,3 +668,12 @@ https://github.com/notthehiddenwiki/NTHW/tree/nthw/Bug%20Bounty
 
 # Cyberdefense Blue Team
 https://cyberdefenders.org/  
+
+# Log analysis
+https://courses.redteamleaders.com/courses/5ba830c2-0137-431a-8619-4370fc325b22 
+
+# Cursos gratis redteam
+https://courses.redteamleaders.com/catalog 
+
+# IDOR
+https://mrdesoky0.notion.site/Ultimate-IDOR-Testing-Checklist-2a11e69c871d80f884dcf543480010e5 
